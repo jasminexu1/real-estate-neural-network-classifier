@@ -24,8 +24,8 @@ This project implements and compares several neural network models using PyTorch
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jasminexu1/real-estate-nn-classifier.git
-   cd real-estate-nn-classifier
+   git clone https://github.com/jasminexu1/real-estate-neural-network-classifier.git
+   cd real-estate-neural-network-classifier
    ```
 2. Open real-estate-nn.ipynb in Jupyter Notebook or VSCode
 
